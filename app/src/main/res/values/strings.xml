@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapsAndroid</string>
+
+    <string name="contentDescription">Image</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="pLat">Latitud</string>
+    <string name="pLon">Longitud</string>
+    <string name="pMarker">Marcador</string>
+</resources>
